@@ -1,0 +1,6 @@
+[submodule "uwp-back"]
+	path = uwp-back
+	url = https://github.com/programmingGods/uwp-back
+[submodule "uwp-front"]
+	path = uwp-front
+	url = https://github.com/programmingGods/uwp-front
